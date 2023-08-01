@@ -1,6 +1,5 @@
 aicsimageio==4.11.0
 aicspylibczi==3.1.2
-aicssegmentation==0.5.3
 aiobotocore==2.5.1
 aiohttp==3.8.4
 aioitertools==0.11.0
@@ -131,19 +130,6 @@ mrc==0.3.0
 msgpack==1.0.5
 multidict==6.0.4
 mypy-extensions==1.0.0
-napari==0.4.17
-napari-aicsimageio==0.7.2
-napari-assistant==0.4.5
-napari-console==0.0.8
-napari-matplotlib==1.0.0
-napari-nikon-nd2==0.1.3
-napari-plugin-engine==0.2.0
-napari-segment-anything @ git+https://github.com/jookuma/napari-segment-anything.git@b467bc10bff3acafbf0a32fe25affe5e165c48ed
-napari-segment-blobs-and-things-with-membranes==0.3.5
-napari-svg==0.1.10
-napari-time-slicer==0.4.9
-napari-tools-menu==0.1.19
-napari-workflows==0.2.9
 nbclassic==1.0.0
 nbclient==0.8.0
 nbconvert==7.6.0
